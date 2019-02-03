@@ -98,6 +98,6 @@ UofT SCS Data Analytics Bootcamp's Unit 9 Assignment (SQL)
 'store'
 ```
 
-Copyright
+###Copyright
 
 Coding Boot Camp © 2018. All Rights Reserved.
